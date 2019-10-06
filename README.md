@@ -21,3 +21,9 @@ git push -u origin master
 git push origin master
 ```
 
+#### 克隆远程仓库：
+
+```
+ git clone git@github.com:tianshun66/tsGit.git
+```
+
