@@ -13,5 +13,8 @@ git push -u origin master
 
 ```
 git remote set-url origin git@github.com:tianshun66/tsGit.git
+git push -u origin master
+#后期提交时
+git push origin master
 ```
 
