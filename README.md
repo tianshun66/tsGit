@@ -28,3 +28,6 @@ git push origin master
 ```
 
 ### 拉取远程仓库：
+```
+ git fetch origin
+```
