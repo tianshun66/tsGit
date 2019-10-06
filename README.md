@@ -30,4 +30,8 @@ git push origin master
 ### 拉取远程仓库：
 ```
  git fetch origin
+ git merge origin/master
+ 
+ #方式二
+ git pull origin master
 ```
