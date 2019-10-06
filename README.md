@@ -27,3 +27,4 @@ git push origin master
  git clone git@github.com:tianshun66/tsGit.git
 ```
 
+### 拉取远程仓库：
